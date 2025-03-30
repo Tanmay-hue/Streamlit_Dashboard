@@ -4,7 +4,7 @@ import altair as alt
 import math
 from collections import namedtuple
 
-st.title("Interactive Spiral Demo")
+st.title("Welcome to Streamlit")
 
 # Sliders for spiral parameters
 total_points = st.slider("Number of points in spiral", 1, 5000, 2000)
